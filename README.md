@@ -1,3 +1,5 @@
+> **About:** a DevSkiller coding test. The brief below asks for a movie manager (list, create, delete, rate 1–5) built with React hooks and TypeScript.
+
 # React Hooks Movie Management Application
 
 React movies application provides a simple list of movies.
